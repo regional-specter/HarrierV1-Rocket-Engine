@@ -3,14 +3,14 @@
 <img width="1470" height="376" alt="image" src="https://github.com/user-attachments/assets/b2750115-e1a9-49fd-a682-90c5cdeffddc" />
 
 
-# Harrier V1 Rocket Engine
+# Viper-1 Rocket Engine
 <p>
   <img src="https://img.shields.io/badge/Propellant-LOX%2FRP--1-f97316" alt="LOX/RP-1 Bipropellant">
   <img src="https://img.shields.io/badge/Nozzle-de%20Laval%20%2B%20TVC-22c55e" alt="de Laval + TVC">
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Blender%20%7C%20LaTeX-3776AB" alt="Tech Stack">
 </p>
 
-The Harrier V1 is a 3-month engineering and 3D visualization project aimed at designing a theoretical, highly stable gas-generator rocket engine. Inspired by the rugged simplicity of SpaceX’s Falcon/Merlin architecture and the high-agility vectoring systems of modern fighter jets, this project bridges computational physics, structured programming, advanced mechanical rigging, and academic research.
+The Viper-1 is a 3-month engineering and 3D visualization project aimed at designing a theoretical, highly stable gas-generator rocket engine. Inspired by the rugged simplicity of SpaceX’s Falcon/Merlin architecture and the high-agility vectoring systems of modern fighter jets, this project bridges computational physics, structured programming, advanced mechanical rigging, and academic research.
 </div>
 
 The project is divided into three core deliverables hosted in a clean GitHub repository:
